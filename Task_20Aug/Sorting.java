@@ -2,7 +2,7 @@ package Task_20Aug;
 
 import java.lang.reflect.Array;
 import java.util.Scanner;
-
+// Program to sort an integer array in java
 public class Sorting {
     public static void main(String args[]){
         int[] Array=GetArray();
